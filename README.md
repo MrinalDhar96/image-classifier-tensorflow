@@ -123,10 +123,4 @@ new_model.predict(np.expand_dims(image/255, 0))
 
 ---
 
-## 📌 GitHub Repository
-
-[Image Classifier using TensorFlow](https://github.com/MrinalDhar96/image-classifier-tensorflow)
-
----
-
 Would you like me to add a **confusion matrix heatmap image generation script** in the README as well (so others can visualize results)?
